@@ -6,6 +6,8 @@
 - [Typescript Setup](https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript)
 - [Typescript docs](https://www.typescriptlang.org/docs/)
 - [UITesting Website uitestingplayground](http://uitestingplayground.com/textinput)
+  - #### E2E & Component
+    - **NOTE** `E2E` - Testing Entire page , `Component` - Only Particular component 
 
   - #### NPM & YARN
 
@@ -111,6 +113,7 @@
 - #### Assertions
 
   - [Core concepts](https://docs.cypress.io/guides/core-concepts/introduction-to-cypress#Asserting-About-Elements)
+  - [All assertions](https://docs.cypress.io/guides/references/assertions#BDD-Assertions)
   - [API Commands](https://docs.cypress.io/api/commands/get)
 
 - #### Concepts
