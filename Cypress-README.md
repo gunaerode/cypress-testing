@@ -8,10 +8,13 @@
 - [UITesting Website uitestingplayground](http://uitestingplayground.com/textinput)
   - #### E2E & Component
     - **NOTE** `E2E` - Testing Entire page , `Component` - Only Particular component 
+  - #### Best Practices
+    - [How to select elements](https://docs.cypress.io/guides/references/best-practices#Selecting-Elements)
 
   - #### NPM & YARN
 
-    `npm install --save-dev typescript` or `yarn add --dev typescript`
+    - `npm install --save-dev typescript` or `yarn add --dev typescript`
+    - `npm i cypress-xpath` - [cypres xpath](https://www.npmjs.com/package/cypress-xpath)
 
   - #### Configure tsconfig.json
 
@@ -132,3 +135,5 @@
     });
     ```
 - **NOTE**: `should` vs `then` if you have only assertion in the hook use `should` other vice use `then`
+- `cy.contains` - check the content of the element
+- `cy.find` - find element
