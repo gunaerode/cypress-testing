@@ -147,4 +147,5 @@
   - [If we use Typescript then need to add "types": ['src', 'cypress'] in the tsconfig.json](https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript)
   - [Types of testing Scenario](https://docs.cypress.io/guides/core-concepts/testing-types#Common-scenarios-for-component-tests )
   - [Angular Component testing](https://www.youtube.com/watch?v=wbsTfi4V0Jw)
+  - [Angular Cypress component testing article latest](https://www.cypress.io/blog/2022/08/15/cypress-10-5-0-introducing-angular-component-testing/)
 
