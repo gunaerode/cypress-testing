@@ -140,11 +140,11 @@
 
 - #### Reference Links
 ---
-[introducing-the-cypress-component-test-runner](https://www.cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner/) - [Old blog just for an reference] (https://www.cypress.io/blog/2021/04/06/cypress-component-testing-react/)
-[Intro to component testing( youtube]https://youtu.be/vJ0rDP4CG-w)
-[Cypress component test runner](https://www.cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner/)
-[Visual Testing](https://docs.cypress.io/guides/tooling/visual-testing#What-you-ll-learn)
-[If we use Typescript then need to add "types": ['src', 'cypress'] in the tsconfig.json](https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript)
-[Types of testing Scenario](https://docs.cypress.io/guides/core-concepts/testing-types#Common-scenarios-for-component-tests )
-[Angular Component testing](https://www.youtube.com/watch?v=wbsTfi4V0Jw)
+  - [introducing-the-cypress-component-test-runner](https://www.cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner/) - [Old blog just for an reference] (https://www.cypress.io/blog/2021/04/06/cypress-component-testing-react/)
+  - [Intro to component testing( youtube]https://youtu.be/vJ0rDP4CG-w)
+  - [Cypress component test runner](https://www.cypress.io/blog/2021/04/06/introducing-the-cypress-component-test-runner/)
+  - [Visual Testing](https://docs.cypress.io/guides/tooling/visual-testing#What-you-ll-learn)
+  - [If we use Typescript then need to add "types": ['src', 'cypress'] in the tsconfig.json](https://docs.cypress.io/guides/tooling/typescript-support#Install-TypeScript)
+  - [Types of testing Scenario](https://docs.cypress.io/guides/core-concepts/testing-types#Common-scenarios-for-component-tests )
+  - [Angular Component testing](https://www.youtube.com/watch?v=wbsTfi4V0Jw)
 
