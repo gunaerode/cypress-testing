@@ -148,4 +148,8 @@
   - [Types of testing Scenario](https://docs.cypress.io/guides/core-concepts/testing-types#Common-scenarios-for-component-tests )
   - [Angular Component testing](https://www.youtube.com/watch?v=wbsTfi4V0Jw)
   - [Angular Cypress component testing article latest](https://www.cypress.io/blog/2022/08/15/cypress-10-5-0-introducing-angular-component-testing/)
+  - [cypress-react-repo](https://github.com/cypress-io/cypress/tree/master/npm/react)
+  - [filip hric code review](https://youtu.be/2-eDv3TdYbs) and [filip courses](https://filiphric.com/courses)
+  - [advance cypress course](https://testautomationu.applitools.com/advanced-cypress-tutorial/chapter1.html)
+  - [visual testing](https://glebbahmutov.com/blog/my-vision-for-component-tests/)
 
