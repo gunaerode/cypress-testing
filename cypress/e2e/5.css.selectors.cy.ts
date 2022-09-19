@@ -14,5 +14,9 @@ describe('css selectors', () => {
     
     it('css attribute selector', () => {
         cy.get(`button[class="btn btn-primary"]`).should('have.text', 'Button with Dynamic ID');
+        cy.get(`.btn-primary`).should(
+          'have.text',
+          'Button with Dynamic ID'
+        );
     });
 });
