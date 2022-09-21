@@ -187,3 +187,5 @@
     - **EX**: [Example links](https://github.com/testing-library/cypress-testing-library/blob/97939da7d4707a71049884c0324c0eda56e26fc2/cypress/integration/find.spec.js)
     - [All types](https://github.com/testing-library/cypress-testing-library/blob/main/types/index.d.ts)
   - [noriste.github.io Cypress testing library reference](https://noriste.github.io/reactjsday-2019-testing-course/book/cypress-testing-library.html)
+  - [Code Coverage for React stackoverflow](https://stackoverflow.com/questions/73116788/cypress-test-coverage-create-react-app-cra-typescript)
+  - [Gleb react code coverage](https://glebbahmutov.com/blog/component-code-coverage/)
